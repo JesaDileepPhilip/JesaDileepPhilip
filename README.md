@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Jesa Dileep Philip
 
-<!--
-**JesaDileepPhilip/JesaDileepPhilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Undergrad | 📍 India
 
-Here are some ideas to get you started:
+I am passionate about **building practical, impactful projects** while systematically improving my **Python, C++, and Git/GitHub workflows**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Data Structures & Algorithms (C++ for placements)
+- React for frontend project building
+- Systematic Git and GitHub workflow
+
+💡 Interests
+- Personal Finance Tools
+- Learning systematic project structuring and clean code
+
+📈 GitHub Stats
+
+![Jesa's GitHub stats]([https://github-readme-stats.vercel.app/api?username=JesaDileepPhilip&show_icons=true&theme=default](https://www.linkedin.com/in/jesa-dileep-philip-5b62a6255/))
+
+
+📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-link/)  
+- 📧 [Email Me](mailto:jesadileepphilip.mec@gmail.com)
+
+> “I believe in consistent, systematic learning while building projects that can help others.”  
+> – Jesa Dileep Philip
